@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/ialexanderbrito/plataforma-lab/compare/v1.1.0...v1.1.1) (2022-06-21)
+
+
+### Bug Fixes
+
+* new uri cms ([51d6c28](https://github.com/ialexanderbrito/plataforma-lab/commit/51d6c284469c9d2ad858b679b368d2eccbdb1f34))
+
 # [1.1.0](https://github.com/ialexanderbrito/plataforma-lab/compare/v1.0.0...v1.1.0) (2022-06-21)
 
 
