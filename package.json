@@ -14,9 +14,10 @@
     "prepare": "husky install"
   },
   "dependencies": {
-    "axios": "^0.27.2",
+    "@apollo/client": "^3.6.8",
     "classnames": "^2.3.1",
     "formik": "^2.2.9",
+    "graphql": "^16.5.0",
     "react": "^18.1.0",
     "react-dom": "^18.1.0",
     "react-hot-toast": "^2.2.0",
