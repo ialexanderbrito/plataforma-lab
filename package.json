@@ -1,6 +1,11 @@
 {
   "name": "web",
   "version": "1.0.0",
+
+    "engines": {
+      "node": ">=14.0.0"
+    },
+
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
