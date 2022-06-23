@@ -1,3 +1,19 @@
+# [1.3.0](https://github.com/ialexanderbrito/plataforma-lab/compare/v1.2.0...v1.3.0) (2022-06-23)
+
+
+### Bug Fixes
+
+* import apollo provider ([fcc716f](https://github.com/ialexanderbrito/plataforma-lab/commit/fcc716fec229229c836179d61cc3c50b37aaa39a))
+
+
+### Features
+
+* add component video ([02040ee](https://github.com/ialexanderbrito/plataforma-lab/commit/02040ee3d4f2631b83ccf4ae4ae8620f114c1f1c))
+* add conditional slug ([0992ecc](https://github.com/ialexanderbrito/plataforma-lab/commit/0992ecc725750f70af81decae3bbca9ddd463ab6))
+* add link lesson ([87b0064](https://github.com/ialexanderbrito/plataforma-lab/commit/87b00642f18f3824998411bfe93e83afb3a91d24))
+* add new routes ([c1cafdb](https://github.com/ialexanderbrito/plataforma-lab/commit/c1cafdb047a9e535c5bba6d0949ccf4745c316f4))
+* add vime and uiball loaders ([b575ee2](https://github.com/ialexanderbrito/plataforma-lab/commit/b575ee27bbf75444df71f472bd3c3efdf0ceaf28))
+
 # [1.2.0](https://github.com/ialexanderbrito/plataforma-lab/compare/v1.1.1...v1.2.0) (2022-06-22)
 
 
