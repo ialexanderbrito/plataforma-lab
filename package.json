@@ -18,6 +18,9 @@
   },
   "dependencies": {
     "@apollo/client": "^3.6.8",
+    "@uiball/loaders": "^1.2.6",
+    "@vime/core": "^5.3.1",
+    "@vime/react": "^5.3.1",
     "classnames": "^2.3.1",
     "date-fns": "^2.28.0",
     "formik": "^2.2.9",
