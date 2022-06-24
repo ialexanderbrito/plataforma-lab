@@ -1,3 +1,22 @@
+# [1.5.0](https://github.com/ialexanderbrito/plataforma-lab/compare/v1.4.2...v1.5.0) (2022-06-24)
+
+
+### Bug Fixes
+
+* text ([c7b9676](https://github.com/ialexanderbrito/plataforma-lab/commit/c7b96767fc0d0056c3942cc42a1290034703f3a2))
+
+
+### Features
+
+* add cogen.yml ([aed28fa](https://github.com/ialexanderbrito/plataforma-lab/commit/aed28fa58dc8dddf92bd92fd14448cad690c7cde))
+* add component card video ([4e283ea](https://github.com/ialexanderbrito/plataforma-lab/commit/4e283eab9e4ad9f46c29678b05252aece3f40452))
+* add dependency graphql codegen ([c584af7](https://github.com/ialexanderbrito/plataforma-lab/commit/c584af7ed8ef74ca8f67696437cd9259f6d90bbc))
+* add import card video ([c2064b5](https://github.com/ialexanderbrito/plataforma-lab/commit/c2064b5acf7a394f122fd5d68592558e41e0aafb))
+* add new imports graphql hooks ([d009421](https://github.com/ialexanderbrito/plataforma-lab/commit/d009421bc0fdb3c62c7bce6e060e91c550e29c46))
+* add new mutations ([4c79f14](https://github.com/ialexanderbrito/plataforma-lab/commit/4c79f143f5c2fca0179a1639772e9ab22ae636d2))
+* add new queries ([0294a5b](https://github.com/ialexanderbrito/plataforma-lab/commit/0294a5b42683a222da9ccd8a45cbead7998e7552))
+* add types graphql ([13ed158](https://github.com/ialexanderbrito/plataforma-lab/commit/13ed158de3bef4f383c97172c41ec65f75e2c5b2))
+
 ## [1.4.2](https://github.com/ialexanderbrito/plataforma-lab/compare/v1.4.1...v1.4.2) (2022-06-24)
 
 
