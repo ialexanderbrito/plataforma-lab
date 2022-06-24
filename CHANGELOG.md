@@ -1,3 +1,10 @@
+## [1.4.2](https://github.com/ialexanderbrito/plataforma-lab/compare/v1.4.1...v1.4.2) (2022-06-24)
+
+
+### Bug Fixes
+
+* disabled lesson coming soon ([9925dfd](https://github.com/ialexanderbrito/plataforma-lab/commit/9925dfdc509668daf4fdae428659523baf3605aa))
+
 ## [1.4.1](https://github.com/ialexanderbrito/plataforma-lab/compare/v1.4.0...v1.4.1) (2022-06-24)
 
 
