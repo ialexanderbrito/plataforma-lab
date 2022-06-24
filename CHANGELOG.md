@@ -1,3 +1,22 @@
+# [1.4.0](https://github.com/ialexanderbrito/plataforma-lab/compare/v1.3.0...v1.4.0) (2022-06-24)
+
+
+### Bug Fixes
+
+* remove cache in video ([18cb093](https://github.com/ialexanderbrito/plataforma-lab/commit/18cb093fafcb54a2f71e005e842fddef3629f309))
+* uri graphcms ([2bd7b4a](https://github.com/ialexanderbrito/plataforma-lab/commit/2bd7b4ab3164da18a5b8bf3730392a8592195b18))
+
+
+### Features
+
+* add assets ([4a232bf](https://github.com/ialexanderbrito/plataforma-lab/commit/4a232bf9f5ee3664946333d8a0fb4e529ab6222c))
+* add background image ([a04dad4](https://github.com/ialexanderbrito/plataforma-lab/commit/a04dad44dc7b12de728a0238d14bb7c12ea58f76))
+* add component card active ([8b552cb](https://github.com/ialexanderbrito/plataforma-lab/commit/8b552cb2364917a0812f3fb7132a3f11f270d05c))
+* add component react logo ([02d0162](https://github.com/ialexanderbrito/plataforma-lab/commit/02d0162979e3b37c99004b8fe0178f317d521f63))
+* add env example ([8a3d816](https://github.com/ialexanderbrito/plataforma-lab/commit/8a3d816d445ce5971aebba35740501fd6c33dc95))
+* add new routes ([128c402](https://github.com/ialexanderbrito/plataforma-lab/commit/128c402d849ff27c53b42e6dc53e367e080513e7))
+* add page subscribe ([a5f7c69](https://github.com/ialexanderbrito/plataforma-lab/commit/a5f7c6985d43cb88eb1312ed3a7487079dab9f1f))
+
 # [1.3.0](https://github.com/ialexanderbrito/plataforma-lab/compare/v1.2.0...v1.3.0) (2022-06-23)
 
 
