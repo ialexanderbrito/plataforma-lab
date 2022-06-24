@@ -1,3 +1,4 @@
 node_modules
 dist
 .husky
+src/graphql/types.ts
