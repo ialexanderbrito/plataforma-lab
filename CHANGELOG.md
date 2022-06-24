@@ -1,3 +1,10 @@
+## [1.4.1](https://github.com/ialexanderbrito/plataforma-lab/compare/v1.4.0...v1.4.1) (2022-06-24)
+
+
+### Bug Fixes
+
+* image code ([53826b3](https://github.com/ialexanderbrito/plataforma-lab/commit/53826b3be8295cca7d2fe0fab7644851c64b6881))
+
 # [1.4.0](https://github.com/ialexanderbrito/plataforma-lab/compare/v1.3.0...v1.4.0) (2022-06-24)
 
 
