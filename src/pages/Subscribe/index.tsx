@@ -28,10 +28,10 @@ export function Subscribe() {
   }
 
   return (
-    <div className="min-h-screen bg-blur bg-cover bg-no-repeat flex flex-col items-center">
-      <div className="w-full max-w-[1100px] flex items-center justify-between mt-20 mx-auto">
-        <div className="max-w-[640px]">
-          <div className="flex absolute items-center justify-center ml-60">
+    <div className="desktop:min-h-screen bg-blur bg-cover bg-no-repeat flex flex-col items-center">
+      <div className="flex sm:flex-col desktop:flex-row w-full max-w-[1100px] items-center justify-between mt-20 mx-auto">
+        <div className="sm:max-w-sm desktop:max-w-[640px]">
+          <div className="hidden desktop:flex absolute items-center justify-center ml-60">
             <ReactLogo />
           </div>
           <Logo />
@@ -48,7 +48,7 @@ export function Subscribe() {
           </p>
         </div>
 
-        <div className="p-8 bg-gray-700 border border-gray-500 rounded relative">
+        <div className="sm:w-full h-80 mt-5 desktop:w-[390px] p-8 bg-gray-700 border border-gray-500 rounded relative">
           <strong className="text-2xl mb-6 block">
             Inscreva-se gratuitamente
           </strong>
