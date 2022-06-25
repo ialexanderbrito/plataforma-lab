@@ -1,3 +1,10 @@
+# [1.6.0](https://github.com/ialexanderbrito/plataforma-lab/compare/v1.5.0...v1.6.0) (2022-06-25)
+
+
+### Features
+
+* add responsive ([1249538](https://github.com/ialexanderbrito/plataforma-lab/commit/1249538e4955165355e6adb3097234403d823c2b))
+
 # [1.5.0](https://github.com/ialexanderbrito/plataforma-lab/compare/v1.4.2...v1.5.0) (2022-06-24)
 
 
