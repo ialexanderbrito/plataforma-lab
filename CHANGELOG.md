@@ -1,3 +1,10 @@
+# [1.7.0](https://github.com/ialexanderbrito/plataforma-lab/compare/v1.6.0...v1.7.0) (2022-06-28)
+
+
+### Features
+
+* add links wallpaper and discord ([9c226cf](https://github.com/ialexanderbrito/plataforma-lab/commit/9c226cf353480613fe7eb381f2c36e42632d7e93))
+
 # [1.6.0](https://github.com/ialexanderbrito/plataforma-lab/compare/v1.5.0...v1.6.0) (2022-06-25)
 
 
