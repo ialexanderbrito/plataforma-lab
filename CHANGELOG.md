@@ -1,3 +1,10 @@
+# [1.8.0](https://github.com/ialexanderbrito/plataforma-lab/compare/v1.7.0...v1.8.0) (2022-06-29)
+
+
+### Features
+
+* add new favicon ([aff56ca](https://github.com/ialexanderbrito/plataforma-lab/commit/aff56ca271251fa0a3abd49c3c00621805fe2613))
+
 # [1.7.0](https://github.com/ialexanderbrito/plataforma-lab/compare/v1.6.0...v1.7.0) (2022-06-28)
 
 
