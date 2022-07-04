@@ -1,3 +1,10 @@
+## [1.8.1](https://github.com/ialexanderbrito/plataforma-lab/compare/v1.8.0...v1.8.1) (2022-07-04)
+
+
+### Bug Fixes
+
+* update eslint config ([3230619](https://github.com/ialexanderbrito/plataforma-lab/commit/3230619295192bf9a985ac58bbf86e90c8937af3))
+
 # [1.8.0](https://github.com/ialexanderbrito/plataforma-lab/compare/v1.7.0...v1.8.0) (2022-06-29)
 
 
